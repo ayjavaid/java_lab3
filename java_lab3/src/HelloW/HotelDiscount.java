@@ -13,17 +13,6 @@ public class HotelDiscount {
       System.out.print("Enter age: ");
       userAge = scnr.nextInt();
 
-//      if (userAge > 65) {
-//         hotelRate = hotelRate - 40;
-//      }
-//      else if (userAge > 55) {
-//          hotelRate = hotelRate - 30;
-//      }
-//      else if (userAge > 45) {
-//          hotelRate = hotelRate - 20;
-//      } 
-//      
-      
        if (userAge >= 45 & userAge < 55) {
            hotelRate = hotelRate - 20;
        }
