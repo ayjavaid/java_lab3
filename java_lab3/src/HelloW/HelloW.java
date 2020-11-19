@@ -4,6 +4,8 @@ public class HelloW {
 	
 	public static void main (String args[]) {
 		System.out.println("Hello World\n This is an example.");
+		
+		System.out.println("Hello World\n This is not an example.");
 
 //		int i = 5; 		// i is assigned a value of 5
 //		int j = ++i;	// j is being assigned the value of i after the increment
